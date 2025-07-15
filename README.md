@@ -21,7 +21,7 @@ This project serves as a learning tool to explore Android development concepts a
 - Add custom habits
 - Tap to check-in (increment counter)
 - View list of habits
-- Navigate between pages (Home → Add Habit → View Habits)
+- Navigate between pages (Home → View Habits → Add Habit)
 
 ---
 
