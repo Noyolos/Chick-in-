@@ -60,7 +60,7 @@ I'm currently exploring full-stack development and mobile UI/UX design through h
 ![Home](screenshots/home.jpg)
 
 ### ✅ Check-in Success
-![Success](screenshots/checkin_success.jpg)
+![Success](screenshots/success.jpg)
 
 ### ➕ Add Habit
 ![Add Habit](screenshots/add_habit.jpg)
