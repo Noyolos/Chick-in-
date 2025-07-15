@@ -52,3 +52,19 @@ No persistent storage or backend has been implemented yet.
 This was my first Android project using Kotlin and Jetpack Compose.  
 It represents part of my journey to turn real-world needs into working code.  
 I'm currently exploring full-stack development and mobile UI/UX design through hands-on projects like this one.
+
+
+## 📱 App Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.jpg)
+
+### ✅ Check-in Success
+![Success](screenshots/checkin_success.jpg)
+
+### ➕ Add Habit
+![Add Habit](screenshots/add_habit.jpg)
+
+### 📋 Habit List
+![Habit List](screenshots/habit_list.jpg)
+
