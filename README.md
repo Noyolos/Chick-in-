@@ -6,11 +6,13 @@ A simple habit check-in app built with **Kotlin** and **Jetpack Compose**.
 
 ## 📱 Overview
 
-This app was created as a personal practice project, inspired by a small family-run business process that involved handling structured number inputs, generating formatted messages, and forwarding them via WhatsApp.
+Chick-in is a simple habit tracking app designed as a personal project to practice Kotlin and Jetpack Compose.
 
-The goal was to automate a previously manual routine — making it faster, less error-prone, and more efficient under time constraints.
+It allows users to add custom habits, check in daily by incrementing counts, and view their habit list with a clean multi-screen interface.
 
-While the original business context is kept private, this challenge gave me the opportunity to apply Jetpack Compose concepts in a meaningful way, and build a fully functional multi-screen Android app from scratch.
+The app helps users build and maintain habits by providing an easy-to-use check-in system with immediate visual feedback.
+
+This project serves as a learning tool to explore Android development concepts and state management in Jetpack Compose.
 
 ---
 
