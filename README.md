@@ -41,9 +41,9 @@ No persistent storage or backend has been implemented yet.
 
 ## 🚀 Getting Started
 
-1. Clone this repository
-2. Open in Android Studio
-3. Run on emulator or physical Android device
+1. Clone this repository  
+2. Open in Android Studio  
+3. Run on emulator or physical Android device  
 
 ---
 
@@ -53,18 +53,45 @@ This was my first Android project using Kotlin and Jetpack Compose.
 It represents part of my journey to turn real-world needs into working code.  
 I'm currently exploring full-stack development and mobile UI/UX design through hands-on projects like this one.
 
+---
 
 ## 📱 App Screenshots
 
-### 🏠 Home Page
+### 🏠 Home Page  
 ![Home](screenshots/home.jpg)
 
-### ✅ Check-in Success
+### ✅ Check-in Success  
 ![Success](screenshots/success.jpg)
 
-### ➕ Add Habit
+### ➕ Add Habit  
 ![Add Habit](screenshots/add_habit.jpg)
 
-### 📋 Habit List
+### 📋 Habit List  
 ![Habit List](screenshots/habit_list.jpg)
 
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🚀 Roadmap
+
+- Add local data persistence with Room database  
+- Implement user authentication and sync  
+- Improve UI/UX with animations and themes  
+- Add notifications and reminders for habits  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+---
+
+## 📫 Contact
+
+Feel free to reach out: noyolosia@gmail.com
